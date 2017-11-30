@@ -11,7 +11,7 @@ It's a good starting point for understanding how both `pagination` and `requests
 
 # How do I get it running?
 
-You'll need Python 3, `requests`, `IPython`, and ar installed.
+You'll need Python 3, `requests`, and `IPython` installed.
 
 Once you've got Python 3 installed, you can do a:
 
